@@ -1,0 +1,13 @@
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.csproj.AssemblyReference.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.AssemblyInfoInputs.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.AssemblyInfo.cs
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.csproj.CoreCompileInputs.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin\Debug\net48\ABxM.AddOn.Grasshopper.gha
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin\Debug\net48\ABxM.AddOn.Grasshopper.pdb
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.csproj.CopyComplete
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.gha
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.pdb
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin\Debug\net48\ABxM.AddOn.Grasshopper.gha.config
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.Properties.Resources.resources
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Grasshopper\obj\Debug\net48\ABxM.AddOn.Grasshopper.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin\Debug\net48\ABxM.AddOn.Core.dll
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin\Debug\net48\ABxM.AddOn.Core.pdb
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.csproj.AssemblyReference.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.AssemblyInfoInputs.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.AssemblyInfo.cs
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.csproj.CoreCompileInputs.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.dll
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.pdb
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.Properties.Resources.resources
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.csproj.GenerateResource.cache
+D:\研究所\Agent-Based Model\ABxM.Core_AddOn\ABxM.AddOn.Core\obj\Debug\net48\ABxM.AddOn.Core.csproj.CopyComplete

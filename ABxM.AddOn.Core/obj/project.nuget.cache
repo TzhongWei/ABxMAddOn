@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGWSpgVT5sMO0qiENO36lHALQ0DFoRVlSP6eV1INRcjNjRJSxv0i95bGzpwf3myQ9QAaO9mzYdaCKrqCiwqxlw==",
+  "success": true,
+  "projectFilePath": "D:\\研究所\\Agent-Based Model\\ABxM.Core_AddOn\\ABxM.AddOn.Core\\ABxM.AddOn.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Username\\.nuget\\packages\\grasshopper\\7.0.20314.3001\\grasshopper.7.0.20314.3001.nupkg.sha512",
+    "C:\\Users\\Username\\.nuget\\packages\\rhinocommon\\7.0.20314.3001\\rhinocommon.7.0.20314.3001.nupkg.sha512"
+  ],
+  "logs": []
+}

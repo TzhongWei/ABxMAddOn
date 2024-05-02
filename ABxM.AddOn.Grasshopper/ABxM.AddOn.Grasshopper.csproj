@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Version>1.0</Version>
+    <Title>ABxM.Core_AddOn</Title>
+    <Description>Description of ABxM.Core_AddOn</Description>
+    <TargetExt>.gha</TargetExt>
+    <BaseOutputPath>D:\研究所\Agent-Based Model\ABxM.Core_AddOn\bin</BaseOutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>ABxM.AddOn.Grasshopper</AssemblyName>
+    <RootNamespace>ABxM.AddOn.Grasshopper</RootNamespace>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Grasshopper" Version="7.28.23058.3001" />
+    <PackageReference Include="RhinoCommon" Version="7.28.23058.3001" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="ABxM.AddOn.Core">
+      <HintPath>..\bin\Debug\net48\ABxM.AddOn.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ABxM.Core">
+      <HintPath>..\..\ABxM.Core-1.4.0\AbmFramework.Core\ABxM.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  
+  <PropertyGroup Condition="$(Configuration) == 'Debug' AND $([MSBuild]::IsOSPlatform(Windows))">
+    <StartProgram>C:\Program Files\Rhino 7\System\Rhino.exe</StartProgram>
+    <StartArguments></StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+  
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="Copy &quot;$(TargetPath)&quot; &quot;C:\Users\Username\AppData\Roaming\Grasshopper\Libraries\ABxM.AddOn.Grasshopper.gha&quot;" />
+  </Target>
+
+</Project>
